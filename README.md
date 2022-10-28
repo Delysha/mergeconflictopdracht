@@ -1,4 +1,4 @@
-# mergeconflictopdracht
+# eindopdracht
 
 ## doelen:
 Maak van 3 verschillende merge conflicten
